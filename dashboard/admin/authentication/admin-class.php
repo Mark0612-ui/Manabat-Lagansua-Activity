@@ -180,7 +180,7 @@ class ADMIN
                         </div>
                         <h1>Welcome</h1>
                         <p>Hello,<strong>$email</strong></p>
-                        <p>Welcome to Ace System</p>
+                        <p>Welcome to Mark System</p>
                         <p>If you did not sign up for an account, you can safely ignore this email.</p>
                         <p>Thank you!</p>
                     </div>
